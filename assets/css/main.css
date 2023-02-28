@@ -1658,9 +1658,9 @@ input, select, textarea {
 
 		.image.fit2{
 			display: block;
-			width: 20%;
-			margin-left: auto;
-  			margin-right: auto;
+			max-width: 80%
+			width: 80%;
+			
 		}
 
 		.image.featured {
